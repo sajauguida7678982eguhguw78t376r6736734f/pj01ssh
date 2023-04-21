@@ -1,7 +1,7 @@
-# SSH-PLUS ⚡
+# CoutySSH ⚡
 
 
-# @TURBONETVPN2023
+# @Couty_Br
 
 ✅ V2RAY  FUNCIONANDO
 
@@ -29,7 +29,7 @@
 * Recomenda-se usar uma distro nova ou formatada
 * O idioma padrão é o Português
 
-# SSH PLUS 2023 INSTALAÇÃO
+# CoutySSH 2023 INSTALAÇÃO
 
 # Como Instalar!
 
