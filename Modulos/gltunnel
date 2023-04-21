@@ -18,10 +18,10 @@
 			initcheck
 			;;
 			2 | 02)
-            bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/DTCheckUser/master/install.sh)
+            bash <(curl -sL https://raw.githubusercontent.com/vpn-ssh/pj01ssh/tree/main/chck/DTCheckUser/master/install.sh)
             ;;
             3 | 03)
-            bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/CheckUser/master/install.sh)
+            bash <(curl -sL https://raw.githubusercontent.com/vpn-ssh/pj01ssh/tree/main/chck/CheckUser/master/install.sh)
             ;;
 			0 | 00)
 			clear

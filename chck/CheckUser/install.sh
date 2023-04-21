@@ -1,4 +1,4 @@
-url='https://github.com/PhoenixxZ2023/CheckUser'
+url='https://github.com/vpn-ssh/pj01ssh/tree/main/chck/CheckUser'
 
 cd ~
 

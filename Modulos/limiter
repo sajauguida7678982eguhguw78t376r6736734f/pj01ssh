@@ -2,8 +2,8 @@
 #====================================================
 #	SCRIPT: LIMITER SSHPLUS MANAGER
 #	DESENVOLVIDO POR:	CRAZY_VPN
-#	CONTATO TELEGRAM:	http://t.me/crazy_vpn
-#	CANAL TELEGRAM:	http://t.me/sshplus
+#	CONTATO TELEGRAM:	https://t.me/Couty_Br
+#	CANAL TELEGRAM:	https://t.me/Couty_Br
 #====================================================
 clear
 system=$(cat /etc/issue.net)
