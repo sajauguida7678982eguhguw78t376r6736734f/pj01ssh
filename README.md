@@ -2,17 +2,25 @@
 
 Pra quem quer ter a internet com seu propio servidor vc vai precisar de uma máquina 
 🔰 Vps Brasileira
+
 🔰 mínimo 1GB de ram
+
 🔰 uplink de internet seja de 1gb/s 
+
 🔰 Sistema operacional Linux Ubuntu 18 ou Debian 9
+
 🔰 Tem q ter o usuário root (senão tiver e só ativar com um script
-🚨 Fazer a instalação do script ssh eu indico o do kirito
+
+🚨 Fazer a instalação do script ssh eu indico o do kirito ou esse o meu
+
 🚨 Liberar as portas 
+
 🚨Configurar o domínio pra essa máquina e cria o usuário pra testar no app
 
 
 
 Pra quem quer usar o painel web tem que ter outra vps ou uma hospedagem cpainel
+
 =========================
 🟢 COMPRE ATRAVES DO MEU LINK 🟢
 
