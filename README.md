@@ -32,8 +32,11 @@ Pra quem quer usar o painel web tem que ter outra vps ou uma hospedagem cpainel
     https://bit.ly/3JHAj2d 
 
  instalação em vps 
+ 
 🔰 Vps da avirahost 
+
 🔰 Ubuntu 18 
+
 🔰 Minimo indicado e de 1gb de ram pro painel web
 Faz toda a configuração nela e pronto pra usar 
 
@@ -41,6 +44,7 @@ Faz toda a configuração nela e pronto pra usar
 Painel Web em hospedagem 
 
 🔰 Compra a hospedagem na hostmf q eu indico, pode ser qualquer uma lá 
+
 🔰Ativa todas as extensão do php joga o arquivo lá e segue o passo a passo
 
 📽Vídeo de instalação: CyberSSH painel de Crédito https://youtu.be/5CiocyzMfTs
