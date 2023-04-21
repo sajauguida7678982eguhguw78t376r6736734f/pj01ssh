@@ -2,10 +2,10 @@
 #===================================================
 #   SCRIPT: BOT SSH PLUS
 #   DATA ATT: 18 de JuL 2022
-#   DESENVOLVIDO POR: TURBONETPN2023
+#   DESENVOLVIDO POR: CoutySSH
 #   API SHELLBOT: ORION
-#   CONTATO TELEGRAM: http://t.me/TURBONETVPN2023
-#   CANAL TELEGRAM: http://t.me/TURBONETVPN2023
+#   CONTATO TELEGRAM: https://t.me/Couty_Br
+#   CANAL TELEGRAM: https://t.me/Couty_Br
 #===================================================
 [[ ! -d /etc/SSHPlus ]] && exit 0
 [[ ! -d /etc/bot ]] && exit 0
