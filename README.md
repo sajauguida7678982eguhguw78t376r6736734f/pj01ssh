@@ -1,6 +1,7 @@
 # CoutySSH ⚡
 
 Pra quem quer ter a internet com seu propio servidor vc vai precisar de uma máquina 
+
 🔰 Vps Brasileira
 
 🔰 mínimo 1GB de ram
